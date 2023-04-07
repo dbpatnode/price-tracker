@@ -19,7 +19,7 @@
 }
 
 .description a {
-  display: flex;
+  /* display: flex; */
   justify-content: center;
   align-items: center;
   gap: 0.5rem;
@@ -38,6 +38,12 @@
   font-weight: 700;
   font-family: var(--font-mono);
 }
+.link-code {
+  font-weight: 700;
+  font-family: var(--font-mono);
+}
+
+
 
 .grid {
   display: grid;
